@@ -1,4 +1,4 @@
-# Data-Structutes
+# Data Structutes
 <hr>
 <p>This repo has the purpose to build data structures in the following languages:</p>
 <ul>
